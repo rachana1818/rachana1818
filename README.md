@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rachana1818
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Kubernetes
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me - Github
 
